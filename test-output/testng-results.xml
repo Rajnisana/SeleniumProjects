@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30" started-at="2018-07-09T07:07:02Z" finished-at="2018-07-09T07:07:02Z">
+    <groups>
+    </groups>
+    <test name="Extent Report" duration-ms="30" started-at="2018-07-09T07:07:02Z" finished-at="2018-07-09T07:07:02Z">
+      <class name="com.firsttest.DemoTest2">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.firsttest.DemoTest2@4c70fda8]" name="setUp" is-config="true" duration-ms="9" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.firsttest.DemoTestclass@26be92ad]" name="setUp" is-config="true" duration-ms="0" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.firsttest.DemoTest2@4c70fda8]" name="login" is-config="true" duration-ms="1" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.firsttest.DemoTestclass@26be92ad]" name="login" is-config="true" duration-ms="0" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.firsttest.DemoTest2@4c70fda8]" name="launchBrowser" is-config="true" duration-ms="1" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="enterURL()[pri:0, instance:com.firsttest.DemoTest2@4c70fda8]" name="enterURL" is-config="true" duration-ms="0" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method status="PASS" signature="Sub()[pri:0, instance:com.firsttest.DemoTest2@4c70fda8]" name="Sub" duration-ms="1" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sub -->
+        <test-method status="PASS" signature="enterURL()[pri:0, instance:com.firsttest.DemoTest2@4c70fda8]" name="enterURL" is-config="true" duration-ms="0" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method status="PASS" signature="add()[pri:0, instance:com.firsttest.DemoTest2@4c70fda8]" name="add" duration-ms="2" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:com.firsttest.DemoTest2@4c70fda8]" name="logOut" is-config="true" duration-ms="0" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="enterURL()[pri:0, instance:com.firsttest.DemoTest2@4c70fda8]" name="enterURL" is-config="true" duration-ms="0" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:com.firsttest.DemoTest2@4c70fda8]" name="logOut" is-config="true" duration-ms="0" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="multiplication()[pri:0, instance:com.firsttest.DemoTest2@4c70fda8]" name="multiplication" duration-ms="1" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplication -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:com.firsttest.DemoTest2@4c70fda8]" name="logOut" is-config="true" duration-ms="1" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="deleteCoolies()[pri:0, instance:com.firsttest.DemoTest2@4c70fda8]" name="deleteCoolies" is-config="true" duration-ms="0" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCoolies -->
+        <test-method status="PASS" signature="closeAllBrowser()[pri:0, instance:com.firsttest.DemoTest2@4c70fda8]" name="closeAllBrowser" is-config="true" duration-ms="0" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAllBrowser -->
+        <test-method status="PASS" signature="deleteCoolies()[pri:0, instance:com.firsttest.DemoTestclass@26be92ad]" name="deleteCoolies" is-config="true" duration-ms="0" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCoolies -->
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:com.firsttest.DemoTest2@4c70fda8]" name="generateReport" is-config="true" duration-ms="1" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:com.firsttest.DemoTestclass@26be92ad]" name="generateReport" is-config="true" duration-ms="0" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+      </class> <!-- com.firsttest.DemoTest2 -->
+      <class name="com.firsttest.DemoTestclass">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.firsttest.DemoTestclass@26be92ad]" name="launchBrowser" is-config="true" duration-ms="0" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="enterURL()[pri:0, instance:com.firsttest.DemoTestclass@26be92ad]" name="enterURL" is-config="true" duration-ms="1" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method status="PASS" signature="Sub()[pri:0, instance:com.firsttest.DemoTestclass@26be92ad]" name="Sub" duration-ms="5" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sub -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:com.firsttest.DemoTestclass@26be92ad]" name="logOut" is-config="true" duration-ms="0" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="add()[pri:0, instance:com.firsttest.DemoTestclass@26be92ad]" name="add" duration-ms="1" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="enterURL()[pri:0, instance:com.firsttest.DemoTestclass@26be92ad]" name="enterURL" is-config="true" duration-ms="0" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method status="PASS" signature="enterURL()[pri:0, instance:com.firsttest.DemoTestclass@26be92ad]" name="enterURL" is-config="true" duration-ms="0" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:com.firsttest.DemoTestclass@26be92ad]" name="logOut" is-config="true" duration-ms="0" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="multiplication()[pri:0, instance:com.firsttest.DemoTestclass@26be92ad]" name="multiplication" duration-ms="1" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplication -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:com.firsttest.DemoTestclass@26be92ad]" name="logOut" is-config="true" duration-ms="0" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="closeAllBrowser()[pri:0, instance:com.firsttest.DemoTestclass@26be92ad]" name="closeAllBrowser" is-config="true" duration-ms="0" started-at="2018-07-09T02:07:02Z" finished-at="2018-07-09T02:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAllBrowser -->
+      </class> <!-- com.firsttest.DemoTestclass -->
+    </test> <!-- Extent Report -->
+  </suite> <!-- Suite -->
+</testng-results>

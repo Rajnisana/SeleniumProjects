@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test verbose="2" name="Default test">
+    <classes>
+      <class name="com.firsttest.DemoTest2"/>
+      <class name="com.firsttest.DemoTestclass"/>
+    </classes>
+  </test> <!-- Default test -->
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.firsttest.DemoTestclass">
+        <methods>
+          <include name="logOut"/>
+          <include name="deleteCoolies"/>
+          <include name="enterURL"/>
+          <include name="launchBrowser"/>
+          <include name="multiplication"/>
+          <include name="login"/>
+          <include name="setUp"/>
+          <include name="add"/>
+          <include name="Sub"/>
+          <include name="generateReport"/>
+          <include name="closeAllBrowser"/>
+        </methods>
+      </class> <!-- com.firsttest.DemoTestclass -->
+      <class name="com.firsttest.DemoTest2">
+        <methods>
+          <include name="deleteCoolies"/>
+          <include name="Sub"/>
+          <include name="add"/>
+          <include name="launchBrowser"/>
+          <include name="generateReport"/>
+          <include name="closeAllBrowser"/>
+          <include name="multiplication"/>
+          <include name="enterURL"/>
+          <include name="setUp"/>
+          <include name="logOut"/>
+          <include name="login"/>
+        </methods>
+      </class> <!-- com.firsttest.DemoTest2 -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
