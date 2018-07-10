@@ -85,6 +85,31 @@ public class DemoTest2  {
 		
 	
 	}
+	
+	@Test
+	public void division() {
+		
+		
+		
+		
+		int a = 30;
+		int b = 40;
+		Assert.assertEquals(70, a+b);
+		System.out.println("Test2 : Devision");
+		
+		
+		
+	}
+public void divin() {
+		
+		
+		
+		
+		int a = 30;
+		int b = 40;
+		Assert.assertEquals(70, a+b);
+		System.out.println("Test2 : Devn");
+}
 	//Post conditions
 	@AfterMethod
 	
