@@ -85,7 +85,13 @@ public class DemoTest2  {
 		
 	
 	}
-	
+	public void multipn() {
+		
+		System.out.println("Test2: Multiplication");
+		
+		int a = 2;
+		int b = 3;
+		Assert.assertEquals(6,a*b);
 	@Test
 	public void division() {
 		
