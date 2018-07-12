@@ -20,7 +20,7 @@ public class DemoTest2  {
 	
 	
 			
-		System.out.println("BeforeSuite: SetUp Broswer properties");
+		System.out.println("BeforeSuite: SetUp Broswer properts");
 			
 		
 	}
