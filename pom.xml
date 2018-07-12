@@ -13,6 +13,10 @@
 	  <suiteXmlFile>C:\Users\rajni\eclipse-workspace\com.firsttest\testNg.xml</suiteXmlFile>
 	  <maven.test.skip>flase</maven.test.skip>
 	  
+	   
+          <JAVA_1_4_HOME>C:\Program Files\Java\jdk1.8.0_172</JAVA_1_4_HOME>
+       
+	  
    </properties>
 
   

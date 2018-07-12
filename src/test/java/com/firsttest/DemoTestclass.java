@@ -57,7 +57,17 @@ public class DemoTestclass {
 		
 		
 	}
-	
+	@Test
+	public void add2() {
+		
+		System.out.println("Test1 : Addition");
+		
+		int a = 30;
+		int b = 40;
+		Assert.assertEquals(70, a+b);
+		
+		
+	}
 	@Test
 	public void Sub() {
 		

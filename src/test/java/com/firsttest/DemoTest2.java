@@ -110,6 +110,16 @@ public void divin() {
 		Assert.assertEquals(70, a+b);
 		System.out.println("Test2 : Devn");
 }
+public void divin2() {
+	
+	
+	
+	
+	int a = 50;
+	int b = 40;
+	Assert.assertEquals(70, a+b);
+	System.out.println("Test2 : Devn");
+}
 	//Post conditions
 	@AfterMethod
 	
